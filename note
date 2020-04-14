@@ -1,0 +1,8 @@
+As I caanot upload 600 MB files in github this the link of all data set i have taken from https://www.kaggle.com/c/dog-breed-identification/data
+
+I have uploaded 2 images(1. predicted by google and other by my model) where the random image taken from the google matches my prediction.
+
+i have also attached the explanation video of my code.
+
+to test on your own data you just have to run the whole code except the fit and predict on test data( these 2 takes approx 1.5 hrs each to run) and then change the file path in code and predict it.
+
